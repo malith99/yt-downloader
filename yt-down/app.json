@@ -1,0 +1,12 @@
+{
+  "name": "Youtube downloader",
+  "description": "This is a youtube downloader. Made of flask and yt-dlp.",
+  "author": "Malith",
+  "repository": "https://github.com/malith99",
+  "keywords": ["youtube-downloader", "python", "flask", "yt-dlp"],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
