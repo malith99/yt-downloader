@@ -33,10 +33,6 @@ $ pip install -r requirements.txt
 $ python main.py
 ```
 
-## Heroku Deploy
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/malith99/yt-downloader/blob/main/yt-down/app.json)
-
 ## Built With
 
 - [Python](https://www.python.org/)
