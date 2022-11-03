@@ -35,7 +35,7 @@ $ python main.py
 
 ## Heroku Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/malith99/yt-downloader/blob/main/yt-down/app.json)
 
 ## Built With
 
